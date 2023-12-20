@@ -1,0 +1,23 @@
+{
+  "name": "hello-index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dist": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoveller/hello-index.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoveller/hello-index/issues"
+  },
+  "homepage": "https://github.com/shoveller/hello-index#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
+}
